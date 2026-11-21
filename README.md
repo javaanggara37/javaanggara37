@@ -1,4 +1,4 @@
-# Hi, I'm Java Chrisand Hecka Anggara 👾
+# Hi, I'm Java Chisand Hecka Anggara 👾
 
 **Vulnerability Researcher | Kernel, Firmware & Silicon Security**
 
@@ -7,7 +7,7 @@ I break and build across the entire execution stack—from web applications and 
 - 🔭 Current Focus: **Hardware Trojans (RTL), Ring -2 / SMM Internals & Kernel Exploitation**
 - 🛡️ Track Record: **Linux Kernel Upstream Contributor, CWE Analysis & Major Vendor Bug Bounties**
 - ⚙️ Engineering: **Custom RTL anti-tamper PoCs, boot-level instrumentation, and fault-injection setups**
-- 📫 Reach me at: **javaanggara37@gmail.com**
+- 📫 Reach me at: **`javaanggara37@gmail.com`**
 
 ---
 
@@ -60,8 +60,19 @@ I break and build across the entire execution stack—from web applications and 
 
 ---
 
-### 🔗 Connect & Advisories
+### 🔐 Secure Comms & Advisories
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![X / Twitter](https://shields.io)](https://x.com)
-[![PGP Key](https://shields.io)](https://link-pgp-kamu.com)
+For sensitive disclosures, vulnerability coordination, or encrypted communications:
+
+- **Key ID:** `0xA7C819F07D413611`
+- **PGP Fingerprint:** `222F A573 F46F 5D35 B67C  9683 A7C8 19F0 7D41 3611`
+- **Fetch Key:** `curl -sL https://github.com | gpg --import`
+
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="PGP Key" />
+  </a>
+  <a href="mailto:javaanggara37@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
