@@ -7,7 +7,7 @@ I break and build across the entire execution stack—from web applications and 
 - 🔭 Current Focus: **Hardware Trojans (RTL), Ring -2 / SMM Internals & Kernel Exploitation**
 - 🛡️ Track Record: **Linux Kernel Upstream Contributor, CWE Analysis & Major Vendor Bug Bounties**
 - ⚙️ Engineering: **Custom RTL anti-tamper PoCs, boot-level instrumentation, and fault-injection setups**
-- 📫 Reach me at: **[emailkamu@domain.com]**
+- 📫 Reach me at: **javaanggara37@gmail.com**
 
 ---
 
