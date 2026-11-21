@@ -1,4 +1,4 @@
-# Hi, I'm [Java Chrisand Hecka Anggara] 👾
+# Hi, I'm Java Chrisand Hecka Anggara 👾
 
 **Vulnerability Researcher | Kernel, Firmware & Silicon Security**
 
