@@ -67,7 +67,7 @@ For sensitive disclosures, vulnerability coordination, or encrypted communicatio
 - **Key ID:** `0xA7C819F07D413611`
 - **PGP Fingerprint:** `222F A573 F46F 5D35 B67C  9683 A7C8 19F0 7D41 3611`
 - **Fetch via WKD / CLI:** `gpg --auto-key-locate nodefault,wkd --locate-keys javaanggara37@gmail.com`
-- **Fetch via Direct URL:** `curl -sL https://openpgp.org | gpg --import`
+- **Fetch via Direct URL:** `curl -sL https://keys.openpgp.org/vks/v1/by-fingerprint/222FA573F46F5D35B67C9683A7C819F07D413611 | gpg --import`
 
 <p align="left">
   <a href="https://openpgp.org">
