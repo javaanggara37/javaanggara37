@@ -78,4 +78,5 @@ For sensitive disclosures, vulnerability coordination, or encrypted communicatio
   </a>
 </p>
 
-Hacking Is Humint , Supply Chain , Interdiction , Persistent , Social Engineering , Psychological manipulation, playing with emotions and ego
+• "Security doesn't stop at silicon or code—real-world threat modeling spans the entire spectrum: hardware interdiction, supply chain integrity, and the human element."
+
