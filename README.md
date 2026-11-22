@@ -66,10 +66,11 @@ For sensitive disclosures, vulnerability coordination, or encrypted communicatio
 
 - **Key ID:** `0xA7C819F07D413611`
 - **PGP Fingerprint:** `222F A573 F46F 5D35 B67C  9683 A7C8 19F0 7D41 3611`
-- **Fetch Key:** `curl -sL https://github.com | gpg --import`
+- **Fetch via WKD / CLI:** `gpg --auto-key-locate nodefault,wkd --locate-keys javaanggara37@gmail.com`
+- **Fetch via Direct URL:** `curl -sL https://openpgp.org | gpg --import`
 
 <p align="left">
-  <a href="[https://keys.openpgp.org/search?q=javaanggara37%40gmail.com]">
+  <a href="https://openpgp.org">
     <img src="https://shields.io" alt="PGP Key" />
   </a>
   <a href="mailto:javaanggara37@gmail.com">
