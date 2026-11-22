@@ -69,7 +69,7 @@ For sensitive disclosures, vulnerability coordination, or encrypted communicatio
 - **Fetch Key:** `curl -sL https://github.com | gpg --import`
 
 <p align="left">
-  <a href="https://github.com">
+  <a href="[https://keys.openpgp.org/search?q=javaanggara37%40gmail.com]">
     <img src="https://shields.io" alt="PGP Key" />
   </a>
   <a href="mailto:javaanggara37@gmail.com">
