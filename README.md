@@ -44,7 +44,7 @@ I break and build across the entire execution stack—from web applications and 
 
 ---
 
-### 📌 Featured Repositories
+### 📌 Featured Repositories ( Active Research & Upcoming Releases ) 
 - **[Repo 1: RTL Hardware Trojan & Anti-Tamper PoC](https://github.com)** — *SystemVerilog implementation demonstrating obfuscated FSM triggers, low-footprint synthesis, and JTAG probe detection.*
 - **[Repo 2: UEFI & SMM Inspection Scripts](https://github.com)** — *CHIPSEC modules and EDK II utilities for auditing firmware interfaces.*
 - **[Repo 3: Kernel Fuzzing & Patch Notes](https://github.com)** — *Custom Syzkaller harnesses and notes on Linux kernel vulnerability remediation.*
@@ -77,3 +77,5 @@ For sensitive disclosures, vulnerability coordination, or encrypted communicatio
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
+
+Hacking Is Humint , Supply Chain , Interdiction , Persistent , Social Engineering , Psychological manipulation, playing with emotions and ego
